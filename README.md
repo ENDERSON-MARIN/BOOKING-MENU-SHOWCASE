@@ -33,7 +33,7 @@ O **BookingMenu** foi projetado para automatizar e centralizar a gestão de refe
 
 | Painel Admin / Gestão de Check-in | Terminal Kiosk (Leitor Barcode) |
 | :---: | :---: |
-| ![Painel Admin](BookMenu_Admin.png) | ![Terminal Kiosk](BookMenu_Kiosk.png) |
+| ![Painel Admin](assets/BookingMenu_Dashboard.png) | ![Terminal Kiosk](assets/BookingMenu_Kiosk.png) |
 
 ---
 
